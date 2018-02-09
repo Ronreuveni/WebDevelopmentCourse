@@ -3949,9 +3949,9 @@ lib.properties = {
 	webfonts: {},
 	manifest: [
 		{src:"images/index_atlas_.png", id:"index_atlas_"},
-		{src:"sounds/badGood.mp3", id:"badGood"},
-		{src:"sounds/GoodSound.mp3", id:"GoodSound"},
-		{src:"sounds/back.mp3", id:"back"},
+		{src:"finalform/2/sounds/badGood.mp3", id:"badGood"},
+		{src:"2/sounds/GoodSound.mp3", id:"GoodSound"},
+		{src:"finalform/2/sounds/back.mp3", id:"back"},
 		{src:"https://code.jquery.com/jquery-2.2.4.min.js", id:"lib/jquery-2.2.4.min.js"},
 		{src:"components/sdk/anwidget.js", id:"sdk/anwidget.js"},
 		{src:"components/ui/src/textinput.js", id:"an.TextInput"},
